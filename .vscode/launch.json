@@ -21,7 +21,7 @@
       "serverReadyAction": {
         "pattern": "Started Server on .+, url: (https?://.+)",
         "uriFormat": "%s",
-        "action": "debugWithChrome"
+        "action": "openExternally"
       }
     }
   ]
