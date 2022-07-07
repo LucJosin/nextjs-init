@@ -12,8 +12,18 @@ My personal template for Next.js project.
 
 ## Use
 
+### Create project
+
+#### Npx
+
 ```terminal
 npx create-next-app@latest --ts --example "https://github.com/LucJosin/nextjs-init" my-app
+```
+
+#### Yarn
+
+```terminal
+yarn create next-app --typescript --example "https://github.com/LucJosin/nextjs-init" my-app
 ```
 
 ### Npm
