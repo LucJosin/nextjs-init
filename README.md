@@ -10,9 +10,17 @@ My personal template for Next.js project.
 - ESLint
 - Prettier
 
+## VSCode Extensions
+
+- Auto Rename Tag
+- Error Lens
+- ESLint
+- Prettier
+- Next.js Snippets
+
 ## Use
 
-### Create project
+### Create the project
 
 #### Npx
 
@@ -26,13 +34,15 @@ npx create-next-app@latest --ts --example "https://github.com/LucJosin/nextjs-in
 yarn create next-app --typescript --example "https://github.com/LucJosin/nextjs-init" my-app
 ```
 
-### Npm
+### Run the project
+
+#### Npm
 
 ```terminal
 npm run dev
 ```
 
-### Yarn
+#### Yarn
 
 ```terminal
 yarn dev
